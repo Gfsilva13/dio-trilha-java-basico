@@ -1,1 +1,4 @@
 edu\estudo\ContaTerminal.class
+edu\estudo\control\TransacaoConta.class
+edu\estudo\model\Conta.class
+edu\estudo\view\VisaoUsuario.class
