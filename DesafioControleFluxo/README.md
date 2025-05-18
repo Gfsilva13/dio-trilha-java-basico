@@ -13,3 +13,6 @@ Se o primeiro parâmetro for MAIOR que o segundo parâmetro, você deverá lanç
 Crie o projeto DesafioControleFluxo
 Dentro do projeto, crie a classe Contador.java para realizar toda a codificação do nosso programa.
 Dentro do projeto, crie a classe ParametrosInvalidosException que representará a exceção de negócio no sistema.
+
+## 🔗 Links
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/genivaldo-ferreira)
